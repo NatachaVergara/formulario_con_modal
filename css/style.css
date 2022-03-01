@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,110,1) 0%, rgba(85,208,233,1) 100%);
+}
+
+.modal-header {
+    justify-content: center;
+}
+
+/* Escribe tu codigo CSS a partir de acá */
