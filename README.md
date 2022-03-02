@@ -8,16 +8,16 @@ podríamos considerar este ejercicio de nivel medio... ¿Estás preparad@?:
 
 ###### Instrucciones:
 a) Cloná el siguiente repositorio:
-https://github.com/programadesdetucasa/formulario-con-dom
-b) En el archivo JS, creá una función que se llame envioFormulario() .
+https://github.com/programadesdetucasa/formulario-con-dom <br>
+b) En el archivo JS, creá una función que se llame envioFormulario() .<br>
 c) Dentro de la función que creaste obtené cada uno de los elementos input que
 tiene el formulario mediante el método querySelector() y manipulalos para
-obtener el valor ingresado con la propiedad JS value .
-d) Mostrá esos datos obtenidos en el modal que se encuentra en el archivo HTML.
+obtener el valor ingresado con la propiedad JS value .<br>
+d) Mostrá esos datos obtenidos en el modal que se encuentra en el archivo HTML.<br>
 Quizás te diste cuenta que el modal se encuentra oculto a través de estilos
 CSS, por lo que deberás manipularlo y hacer que aparezca cuando se active
-la función envioFormulario(). (Mirá la imagen de referencia).
-e) Agregá al formulario el evento submit y vinculá la función envioFormulario()
+la función envioFormulario(). (Mirá la imagen de referencia).<br>
+e) Agregá al formulario el evento submit y vinculá la función envioFormulario()<br>
 f) Por último, cuando aparezca el modal deberás codear también el
 comportamiento del botón cerrar para que este desaparezca al hacer click
 sobre él.
